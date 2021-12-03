@@ -4,7 +4,8 @@
   "type": "project",
   "require": {
     "symfony/serializer": "^3.0 | ^4",
-    "symfony/dom-crawler": "^3 | ^4 "
+    "symfony/dom-crawler": "^3 | ^4 ",
+    "symfony/property-access": "^5.4"
   },
   "autoload": {
     "psr-4": { "DrupalJUnit\\": "src/"}
